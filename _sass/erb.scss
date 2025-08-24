@@ -1,0 +1,27 @@
+// _sass/custom.scss
+.site-header {
+  background-color: #d2c4c4; 
+}
+
+.site-footer {
+  background-color: #d2c4c4;
+}
+
+
+@import "minima";
+
+
+.footer-col-wrapper {
+  @include relative-font-size(0.9375);
+  color: $grey-color-dark;
+  margin-left: -$spacing-unit * 0.5;
+  @extend %clearfix;
+}
+
+.footer-col-2 {
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+}
+
+
+
