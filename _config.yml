@@ -21,8 +21,7 @@
 author: Jonathan Erb
 title: Jonathan Erb
 #email: none 
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Welcome!
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonathanrerb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
