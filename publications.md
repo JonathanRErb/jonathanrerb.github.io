@@ -9,8 +9,9 @@ layout: home
 **Below are some recent blog posts and product manuals I have independently written.**
 
 {% include preview.html url = site.url_ebpf_blog %}
-
 [Github Link]( {{ site.url_github_nf_ebpf }} )
+
+{% include preview.html url = site.url_syslog_export %}
 
 ---
 

@@ -45,6 +45,7 @@ plugins:
 url_enforce_product: https://www.threater.com/solutions/enforce/
 url_vdt_product: https://www.spirent.com/assets/u/virtual_drive_test
 url_ebpf_blog: https://www.threater.com/blog/transparent-packet-inspection-with-netfilter-and-ebpf/
+url_syslog_export: https://www.threater.com/blog/threater-announces-support-for-tls-secured-syslog-export-rfc5425/
 url_techx_product: https://www.aaatesters.com/spirent-tech-x-flex-ethernet-tester-model-tech-x-flex-spirent-flex.html
 url_github_nf_ebpf: https://github.com/JonathanRErb/ebpf-netfilter-redirect
 

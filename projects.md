@@ -12,7 +12,7 @@ layout: projects
 
 {% include preview.html url = site.url_vdt_product %}
 
-{% include preview.html url = site.url_techx_product %}
+[TechX Handheld]( {{ site.url_techx_product }} )
 
 
 ---
