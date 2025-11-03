@@ -10,7 +10,7 @@ layout: projects
 
 {% include preview.html url = site.url_enforce_product %}
 
-{% include preview.html url = site.url_vdt_product %}
+[Virtual Drive Testing](pdf/Virtual_Drive_Test.pdf)
 
 [TechX Handheld]( {{ site.url_techx_product }} )
 

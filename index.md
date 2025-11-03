@@ -11,7 +11,7 @@ layout: home
 
 Hello, 
 
-Welcome to my professional page where you can learn more about my skills, experience, and talents. I have been a software engineer for over 25 years with a primary focus on embedded systems. The contents here are intended to supplement my resume and present a more detailed picture of my professional abilities.
+Welcome to my professional page where you can learn more about my skills, experience, and talents. I have been a software engineer for over 25 years with a primary focus on embedded systems and cybersecurity. The contents here are intended to supplement my resume and present a more detailed picture of my professional abilities.
 
 Thanks for visiting!
 
