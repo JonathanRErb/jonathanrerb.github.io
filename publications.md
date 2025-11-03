@@ -23,7 +23,7 @@ layout: home
 | Threater Enforce in AWS - Middlebox | [Open PDF](https://threater-marketplace.s3.us-east-1.amazonaws.com/Threater+Enforce+in+AWS+-+Middlebox.pdf) |
 | Threater Enforce in AWS - Gateway Load Balancer   | [Open PDF](https://threater-marketplace.s3.amazonaws.com/Threater+Enforce+in+AWS+-+GWLB.pdf) |
 | Threater Enforce in Azure - Gateway Load Balancer | [Open PDF](https://threaterproduction.blob.core.windows.net/docs/Threater+Enforce+in+Azure.pdf) |
-| Threater Enforce in AWS - Middlebox | [Open PDF](https://storage.googleapis.com/threaterproduction/docs/Threater%20Enforce%20in%20Google%20Cloud.pdf) |
+| Threater Enforce in Google Cloud | [Open PDF](https://storage.googleapis.com/threaterproduction/docs/Threater%20Enforce%20in%20Google%20Cloud.pdf) |
 
 
 ---
