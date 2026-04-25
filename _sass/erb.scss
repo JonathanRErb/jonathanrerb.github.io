@@ -1,19 +1,37 @@
-// _sass/custom.scss
-.site-header {
-  background-color: #d2c4c4; 
-}
-
-.site-footer {
-  background-color: #d2c4c4;
-}
-
-
 @import "minima";
 
+// ---- Header ----
+.site-header {
+  background-color: #1e3a5f;
+  border-bottom-color: #2d5986;
+}
 
-.footer-col-wrapper {
+.site-header .site-title,
+.site-header .site-title:visited {
+  color: #ffffff;
+}
+
+.site-header .site-nav .page-link {
+  color: #cdd9e5;
+}
+
+.site-header .site-nav .page-link:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.site-header .site-nav .menu-icon > svg path {
+  fill: #ffffff;
+}
+
+// ---- Footer ----
+.site-footer {
+  background-color: #1e3a5f;
+}
+
+.site-footer .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color-dark;
+  color: #cdd9e5;
   margin-left: -$spacing-unit * 0.5;
   @extend %clearfix;
 }
@@ -23,5 +41,91 @@
   width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
+.site-footer a {
+  color: #90cdf4;
+}
 
+.site-footer .svg-icon {
+  fill: #90cdf4;
+}
 
+// ---- Hero ----
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  padding: 2.5rem 0 1.5rem;
+}
+
+.hero-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top center;
+  flex-shrink: 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.hero-name {
+  font-size: 2.2rem;
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  color: #1e3a5f;
+}
+
+.hero-tagline {
+  font-size: 1.05rem;
+  color: #4a5568;
+  margin-bottom: 1rem;
+}
+
+.hero-bio {
+  color: #4a5568;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.hero-links {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.hero-btn {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  background-color: #1e3a5f;
+  color: #ffffff !important;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border: 2px solid #1e3a5f;
+}
+
+.hero-btn:hover {
+  background-color: #2d5986;
+  border-color: #2d5986;
+}
+
+.hero-btn--outline {
+  background-color: transparent;
+  color: #1e3a5f !important;
+}
+
+.hero-btn--outline:hover {
+  background-color: #1e3a5f;
+  color: #ffffff !important;
+}
+
+@media (max-width: 600px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-links {
+    justify-content: center;
+  }
+}

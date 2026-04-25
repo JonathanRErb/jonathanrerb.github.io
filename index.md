@@ -1,19 +1,19 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 title: Home
 permalink: /
 layout: home
 ---
 
-<img src="images/me.jpg" alt="alt text" width="100"/>
-
-Hello, 
-
-Welcome to my professional page where you can learn more about my skills, experience, and talents. I have been a software engineer for over 25 years with a primary focus on embedded systems and cybersecurity. The contents here are intended to supplement my resume and present a more detailed picture of my professional abilities.
-
-Thanks for visiting!
-
-Jonathan Erb
-
+<div class="hero">
+  <img class="hero-photo" src="images/me.jpg" alt="Jonathan Erb" />
+  <div class="hero-content">
+    <h1 class="hero-name">Jonathan Erb</h1>
+    <p class="hero-tagline">Principal C/C++ Engineer &middot; Embedded Systems &amp; Cybersecurity</p>
+    <p class="hero-bio">Software engineer with over 25 years of experience building high-performance embedded systems and cybersecurity solutions. The contents here are intended to supplement my resume and present a more detailed picture of my professional abilities.</p>
+    <div class="hero-links">
+      <a class="hero-btn" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a>
+      <a class="hero-btn hero-btn--outline" href="https://github.com/{{ site.github_username }}">GitHub</a>
+      <a class="hero-btn hero-btn--outline" href="/resume">Resume</a>
+    </div>
+  </div>
+</div>

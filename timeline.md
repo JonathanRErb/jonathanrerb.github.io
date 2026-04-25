@@ -90,7 +90,7 @@ The following is a brief timeline of my entire academic and professional career.
   </tr>
 
   <tr>
-    <td>2020-2025</td>
+    <td>2020-2026</td>
     <td>Principal C/C++ Software Engineer</td>
     <td>
 	In 2020 I made the transistion to the cybersecurity industry. My role was to further develop and improve software
@@ -100,7 +100,7 @@ The following is a brief timeline of my entire academic and professional career.
   </tr>
 
   <tr>
-    <td>2025-20??</td>
+    <td>2026-20??</td>
     <td>The Future</td>
     <td>I have always embraced new technologies and new challenges as they provide an opportunity to learn something new and
 	to stay competitive. I look forward to building on my past experience with the tools and technologies of the future.
