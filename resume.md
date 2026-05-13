@@ -7,7 +7,7 @@ layout: home
 
 Principal Software Engineer \| Washington DC-Baltimore Area
 
-Over twenty-five years of experience as a full-stack software developer. Excellent verbal and written communication skills. Eagerness to innovate, acquire new skills, and adapt as business objectives change. Received rating of “exceeds expectations” in most recent performance evaluation.
+Over twenty-five years building high-performance embedded systems and cybersecurity software. Strong communicator with a track record of delivering results across diverse teams and platforms. Received a rating of “exceeds expectations” in most recent performance evaluation.
 
 **WORK EXPERIENCE**
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -16,24 +16,26 @@ Over twenty-five years of experience as a full-stack software developer. Excelle
 
 Threater, Tysons, Virginia
 
-Software Architect for the organizations's threat intelligence cybersecurity enforcement software.
+Software Architect for the organization's threat intelligence cybersecurity enforcement software.
 
-* Develop Linux kernel modules, drivers, and eBPF programs which enable support for the firms’s patented software on OpenWrt.
+* Develop Linux kernel modules, drivers, and eBPF programs which enable support for the firm’s patented software on OpenWrt.
 * Led successful effort to support Threater’s Enforce software as a virtual appliance in AWS, Azure, and GCP public clouds.
 * Delivered support for bump-in-the-wire packet inspection using the Gateway Load Balancer feature offered by Azure and AWS.
-* Keep third-party packages up-to-date and integrate support for new kernel drivers. Have provided several valuable contributions and bug fixes to the public DPDK C based project.
-* Publish technical blog posts and create customer facing documentation using Google Docs Python API.
+* Keep third-party packages up-to-date and contribute bug fixes to the public DPDK C-based project.
+* Leverage AI-assisted development with Anthropic's Claude to improve software development velocity, efficiency, and quality.
+* Publish technical blog posts and create customer-facing documentation using Google Docs Python API.
 
 **Staff Software Engineer** June 1996 – February 2020
 
 Spirent Communications, Frederick, Maryland
 
-In over twenty years with Spirent I was fortunate to work on many projects and for numerous management teams. Some of the most important responsibilities and contributions were:
+In over twenty years with Spirent, I was fortunate to work on many projects and for numerous management teams. Some of the most important responsibilities and contributions were:
 
-* Project Development Team Leader of Spirent’s Virtual Drive Test RF Channel Emulation Solution (directed team of 4 developers).
-* Development of the first virtualized Ethernet service assurance testing solutions for telco providers.
-* Extensive User Interface (UI) Development with Qt Embedded C++ API.
-* Effectively use common laboratory test equipment (multimeters, oscilloscopes, and spectrum analyzers) to evaluate and debug hardware prototypes.
+* Led development of Spirent’s Virtual Drive Test RF Channel Emulation Solution as team leader of 4 developers.
+* Delivered the first virtualized Ethernet service assurance testing solutions for telco providers.
+* Built extensive user interfaces using the Qt Embedded C++ API.
+* Used common laboratory test equipment (multimeters, oscilloscopes, spectrum analyzers) to evaluate and debug hardware prototypes.
+* Performed circuit design and schematic entry.
 
 **EDUCATION**
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
